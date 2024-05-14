@@ -1,0 +1,36 @@
+id;name;partei;sektor;land;type
+uvdl;Ursula von der Leyen;CDU;1;Belgien;1
+lk;Lars Klingbeil;SPD;1;Deutschland;1
+nr;Norbert Röttgen;CDU;1;Deutschland;1
+sw;Sahra Wagenknecht;Die Linke;1;Deutschland;1
+cs;Constanze Stelzenmüller;NA;2;Deutschland;1
+fh;Folge Fünfhundert;NA;0;NA;2
+cl;Christian Lindner;FDP;1;Deutschland;1
+ks;Karl Schlögel;NA;3;Deutschland;1
+lm;Ljudmyla Melnyk;NA;3;Ukraine;1
+kd;Kristina Dunz;NA;2;Deutschland;1
+el;Egils Levits;NA;1;Lettland;1
+fhe;Folge Fünfhunderteins;NA;0;NA;2
+ab;Annalena Baerbock;Grüne;1;Deutschland;1
+ft;Frans Timmerman;GroenLinks;1;Niederlande;1
+am;Andrij Melnyk;NA;1;Ukraine;1
+agl;Alexander Graf Lambsdorff;FDP;1;Deutschland;1
+er;Egon Ramms;NA;4;Deutschland;1
+fhz;Folge Fünfhundertzwei;NA;0;NA;2
+rh;Robert Habeck ;Grüne;1;Deutschland;1
+cm;Claudia Major;NA;3;Deutschland;1
+kp;Katja Petrowskaja;NA;2;Ukraine;1
+rk;Roderich Kiesewetter;CDU;1;Deutschland;1
+fhd;Folge Fünfhundertdrei;NA;0;NA;2
+cla;Christine Lambrecht;SPD;1;Deutschland;1
+sb;Stefanie Babst ;NA;3;Deutschland;1
+ch;Christoph Heusgen;NA;1;Deutschland;1
+mw;Marina Weisband;Piraten;2;Ukraine;1
+fhv;Folge Fünfhundertvier;NA;0;NA;2
+os;Olaf Scholz;SPD;1;Deutschland;1
+fhf;Folge Fünfhundertfünf;NA;0;NA;2
+fdp;FDP;FDP;0;NA;2
+spd;SPD;SPD;0;NA;2
+gruene;Grüne;Grüne;0;NA;2
+cdu;CDU;CDU;0;NA;2
+linke;Linke;Linke;0;NA;2
